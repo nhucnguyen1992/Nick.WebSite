@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izxm/kRFy3+JSd7w0mm0Lx5MOUDhj4zPhWVVJxdhTiq/SKjQpW2qy5ewTAxRo1rZG0s3F7F97h0FltuuavfRSQ==",
+  "dgSpecHash": "qB9hkPTHBxYsePjzIUFx8VxhmlqsskgzqwrAvbhVsJTHWbWPXUZoR+pQrkpKcH93vpI042gB7F1eqhtRf5ybRA==",
   "success": true,
-  "projectFilePath": "D:\\App.Nick\\App.Nick.API\\App.Nick.API.csproj",
+  "projectFilePath": "D:\\Nick.WebSite\\App.Nick.API\\App.Nick.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nick.nguyen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\nick.nguyen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

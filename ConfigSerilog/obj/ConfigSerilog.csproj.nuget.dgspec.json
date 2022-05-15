@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\App.Nick\\ConfigSerilog\\ConfigSerilog.csproj": {}
+    "D:\\Nick.WebSite\\ConfigSerilog\\ConfigSerilog.csproj": {}
   },
   "projects": {
-    "D:\\App.Nick\\ConfigSerilog\\ConfigSerilog.csproj": {
+    "D:\\Nick.WebSite\\ConfigSerilog\\ConfigSerilog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\App.Nick\\ConfigSerilog\\ConfigSerilog.csproj",
+        "projectUniqueName": "D:\\Nick.WebSite\\ConfigSerilog\\ConfigSerilog.csproj",
         "projectName": "ConfigSerilog",
-        "projectPath": "D:\\App.Nick\\ConfigSerilog\\ConfigSerilog.csproj",
+        "projectPath": "D:\\Nick.WebSite\\ConfigSerilog\\ConfigSerilog.csproj",
         "packagesPath": "C:\\Users\\nick.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\App.Nick\\ConfigSerilog\\obj\\",
+        "outputPath": "D:\\Nick.WebSite\\ConfigSerilog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

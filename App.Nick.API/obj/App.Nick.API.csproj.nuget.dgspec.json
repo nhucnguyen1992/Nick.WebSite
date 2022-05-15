@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\App.Nick\\App.Nick.API\\App.Nick.API.csproj": {}
+    "D:\\Nick.WebSite\\App.Nick.API\\App.Nick.API.csproj": {}
   },
   "projects": {
-    "D:\\App.Nick\\App.Nick.API\\App.Nick.API.csproj": {
+    "D:\\Nick.WebSite\\App.Nick.API\\App.Nick.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\App.Nick\\App.Nick.API\\App.Nick.API.csproj",
+        "projectUniqueName": "D:\\Nick.WebSite\\App.Nick.API\\App.Nick.API.csproj",
         "projectName": "App.Nick.API",
-        "projectPath": "D:\\App.Nick\\App.Nick.API\\App.Nick.API.csproj",
+        "projectPath": "D:\\Nick.WebSite\\App.Nick.API\\App.Nick.API.csproj",
         "packagesPath": "C:\\Users\\nick.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\App.Nick\\App.Nick.API\\obj\\",
+        "outputPath": "D:\\Nick.WebSite\\App.Nick.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
