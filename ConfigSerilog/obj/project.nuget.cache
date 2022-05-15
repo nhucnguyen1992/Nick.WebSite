@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YL7msHgujg9reC38tH1KAwpCRjrQtOAByLyEIXOqxly6yVTkaThe9RaxJ7HirbaipiIjGGntwoCmxeHz1s+XkA==",
+  "dgSpecHash": "a3ejoHHdkpV6IUYabV1An5BP4zQw0NoKodATR6foIfXgTPD9d6ut7+jxknV+8yas9hCYlsRvF6nAxK9QM8jyjg==",
   "success": true,
-  "projectFilePath": "D:\\App.Nick\\ConfigSerilog\\ConfigSerilog.csproj",
+  "projectFilePath": "D:\\Nick.WebSite\\ConfigSerilog\\ConfigSerilog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
