@@ -37,7 +37,6 @@ D:\Nick.WebSite\App.Nick.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 D:\Nick.WebSite\App.Nick.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\Nick.WebSite\App.Nick.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Nick.WebSite\App.Nick.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Nick.WebSite\App.Nick.API\obj\Debug\netcoreapp3.1\App.Nick.API.csproj.AssemblyReference.cache
 D:\Nick.WebSite\App.Nick.API\obj\Debug\netcoreapp3.1\App.Nick.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\Nick.WebSite\App.Nick.API\obj\Debug\netcoreapp3.1\App.Nick.API.AssemblyInfoInputs.cache
 D:\Nick.WebSite\App.Nick.API\obj\Debug\netcoreapp3.1\App.Nick.API.AssemblyInfo.cs
